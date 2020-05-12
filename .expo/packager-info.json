@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": null,
-  "packagerPort": null,
-  "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 35066,
+  "expoServerNgrokUrl": "https://bq-d88.mja-maia.boilerplate-reactnative.exp.direct",
+  "packagerNgrokUrl": "https://packager.bq-d88.mja-maia.boilerplate-reactnative.exp.direct",
+  "ngrokPid": 35077
 }
