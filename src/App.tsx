@@ -1,7 +1,9 @@
 /* global __DEV__ */
+
 import React from "react";
-import { registerRootComponent } from "expo";
 import { Text, View } from "react-native";
+
+import { registerRootComponent } from "expo";
 
 if (__DEV__) {
   import("./config/ReactotronConfig").then(() =>
